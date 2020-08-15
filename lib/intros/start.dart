@@ -78,7 +78,6 @@ class _StartState extends State<Start> {
         },
         child: PageView(
           controller: _pageController,
-          //children: widget.colors.map((Color c) => Container(color: c)).toList(),
           children: <Widget>[
             Onboarding(title: widget.title[0],imgSrc: widget.imgSrc[0],dis: widget.dis[0],num: 0,),
             Onboarding(title: widget.title[1],imgSrc: widget.imgSrc[1],dis: widget.dis[1],num: 1,),

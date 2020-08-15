@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-//import 'package:tweak/intros/sign_in.dart';
+import 'package:tweak/intros/sign_in.dart';
 import 'package:tweak/intros/start.dart';
 
 class Onboarding extends StatefulWidget {
@@ -74,7 +74,7 @@ class _OnboardingState extends State<Onboarding> {
               onTap: () {
                 Navigator.push(
                     context, SlideRightRoute(
-                  page: widget.num<3 ? Start(widget.num+1):null/*SignIn()*/,
+                  page: widget.num<3 ? Start(widget.num+1):SignIn(),
                 )
                 );
               },
