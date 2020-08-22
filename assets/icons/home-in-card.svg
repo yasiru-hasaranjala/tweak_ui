@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <filter id="Oval" x="0" y="0" width="100" height="100" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.039"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M12.839,14.286H2a2,2,0,0,1-2-2V5.514A2.011,2.011,0,0,1,.957,3.808L6.9.177a1,1,0,0,1,1.043,0l5.941,3.631a2.01,2.01,0,0,1,.957,1.706v6.772A2,2,0,0,1,12.839,14.286ZM5.946,7.69a1,1,0,0,0-1,1v2.122a1,1,0,0,0,1,1H8.893a1,1,0,0,0,1-1V8.69a1,1,0,0,0-1-1Z" fill="#6650bc"/>
+    </clipPath>
+  </defs>
+  <g id="Group_11" data-name="Group 11" transform="translate(30 20)">
+    <g transform="matrix(1, 0, 0, 1, -30, -20)" filter="url(#Oval)">
+      <circle id="Oval-2" data-name="Oval" cx="20" cy="20" r="20" transform="translate(30 20)" fill="#fff"/>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(10 10)">
+      <rect id="Rectangle" width="20" height="20" fill="none"/>
+      <g id="Oval-3" data-name="Oval" transform="translate(2.857 2.857)">
+        <path id="Mask-2" data-name="Mask" d="M12.839,14.286H2a2,2,0,0,1-2-2V5.514A2.011,2.011,0,0,1,.957,3.808L6.9.177a1,1,0,0,1,1.043,0l5.941,3.631a2.01,2.01,0,0,1,.957,1.706v6.772A2,2,0,0,1,12.839,14.286ZM5.946,7.69a1,1,0,0,0-1,1v2.122a1,1,0,0,0,1,1H8.893a1,1,0,0,0,1-1V8.69a1,1,0,0,0-1-1Z" fill="#6650bc"/>
+        <g id="Oval-4" data-name="Oval" clip-path="url(#clip-path)">
+          <circle id="Oval-5" data-name="Oval" cx="12.5" cy="12.5" r="12.5" transform="translate(2.857 -12.143)" fill="#a18bf5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

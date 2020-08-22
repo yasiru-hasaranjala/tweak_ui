@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="18.333" viewBox="0 0 22 18.333">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M16.5,0C14.533,0,12.232,2.23,11,3.667,9.768,2.23,7.467,0,5.5,0,2.018,0,0,2.716,0,6.173c0,5.744,11,12.161,11,12.161S22,11.917,22,6.417C22,2.96,19.982,0,16.5,0Z" transform="translate(0 0.667)" fill="#ff7e4c"/>
+    </clipPath>
+  </defs>
+  <g id="Heart" transform="translate(0 -0.667)">
+    <g id="Oval">
+      <path id="Mask-2" data-name="Mask" d="M16.5,0C14.533,0,12.232,2.23,11,3.667,9.768,2.23,7.467,0,5.5,0,2.018,0,0,2.716,0,6.173c0,5.744,11,12.161,11,12.161S22,11.917,22,6.417C22,2.96,19.982,0,16.5,0Z" transform="translate(0 0.667)" fill="#ff7e4c"/>
+      <g id="Oval-2" data-name="Oval" clip-path="url(#clip-path)">
+        <circle id="Oval-3" data-name="Oval" cx="15" cy="15" r="15" transform="translate(7 -14)" fill="#ffa27e"/>
+      </g>
+    </g>
+  </g>
+</svg>

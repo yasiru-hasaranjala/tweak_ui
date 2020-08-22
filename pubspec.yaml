@@ -34,6 +34,7 @@ dependencies:
   bubbled_navigation_bar: ^0.0.3
   flutter_spinkit: ^4.1.2+1
   intl: ^0.16.1
+  flutter_calendar_carousel: ^1.4.12
 
 dev_dependencies:
   flutter_test:
@@ -53,6 +54,12 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/images/cards/
+    - assets/images/photos/
+    - assets/icons/categories/
+    - assets/icons/navBar/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

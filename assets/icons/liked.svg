@@ -1,0 +1,9 @@
+<svg id="Group_3" data-name="Group 3" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group">
+    <rect id="Rectangle" width="24" height="24" fill="none"/>
+    <g id="Heart" transform="translate(4 5)">
+      <path id="Path_33961" d="M7.8,14.988a29.327,29.327,0,0,1-5.071-3.936A10.062,10.062,0,0,1,.314,7.216C-.592,4.408.466,1.193,3.428.241A5.047,5.047,0,0,1,8,1.009H8A5.054,5.054,0,0,1,12.565.241c2.962.951,4.028,4.166,3.122,6.975a10.062,10.062,0,0,1-2.414,3.836A29.327,29.327,0,0,1,8.2,14.988l-.2.123Z" transform="translate(0 0)" fill="#ff7e4c"/>
+      <path id="Path_33964" d="M0,0A2.337,2.337,0,0,1,1.614,2.033" transform="translate(11.149 3.403)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

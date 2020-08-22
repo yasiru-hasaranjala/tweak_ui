@@ -1,0 +1,17 @@
+<svg id="Group_7" data-name="Group 7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M8.518,21.055,9.879,18.41l-3,1.022L4.259,16.839l3.528-6.087L1.638,14.244,0,12.623,9.05,6.7a5.349,5.349,0,0,1,7.205,1.261,6.492,6.492,0,0,1-.122,7.939L10.484,23Zm9.543-13.8a6.2,6.2,0,0,0-2.647-1.938L20.321.461a2,2,0,0,1,2.814,0l.37.366a2,2,0,0,1,0,2.843L18.738,8.39A6.776,6.776,0,0,0,18.06,7.257Z" transform="translate(0 0.075)" fill="#1e81fe"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle" width="28" height="28" fill="none"/>
+  <g id="Broom" transform="translate(1 1)">
+    <rect id="bound" width="24" height="24" fill="none"/>
+    <g id="Oval" transform="translate(0.3 2)">
+      <path id="Mask-2" data-name="Mask" d="M8.518,21.055,9.879,18.41l-3,1.022L4.259,16.839l3.528-6.087L1.638,14.244,0,12.623,9.05,6.7a5.349,5.349,0,0,1,7.205,1.261,6.492,6.492,0,0,1-.122,7.939L10.484,23Zm9.543-13.8a6.2,6.2,0,0,0-2.647-1.938L20.321.461a2,2,0,0,1,2.814,0l.37.366a2,2,0,0,1,0,2.843L18.738,8.39A6.776,6.776,0,0,0,18.06,7.257Z" transform="translate(0 0.075)" fill="#1e81fe"/>
+      <g id="Oval-2" data-name="Oval" clip-path="url(#clip-path)">
+        <circle id="Oval-3" data-name="Oval" cx="15" cy="15" r="15" transform="translate(9.7 -13)" fill="#6cadff"/>
+      </g>
+    </g>
+  </g>
+</svg>

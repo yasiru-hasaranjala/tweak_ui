@@ -1,0 +1,18 @@
+<svg id="Group_6" data-name="Group 6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M5.762,19.905H0V2A2,2,0,0,1,2,0H12.667a2,2,0,0,1,2,2V19.9H8.9V16.714a1,1,0,0,0-1-1H6.762a1,1,0,0,0-1,1V19.9Zm3.619-9.429a1,1,0,0,0-1,1v1.143a1,1,0,0,0,1,1h1.143a1,1,0,0,0,1-1V11.476a1,1,0,0,0-1-1Zm-5.238,0a1,1,0,0,0-1,1v1.143a1,1,0,0,0,1,1H5.286a1,1,0,0,0,1-1V11.476a1,1,0,0,0-1-1Zm0-4.19a1,1,0,0,0-1,1V8.428a1,1,0,0,0,1,1H5.286a1,1,0,0,0,1-1V7.285a1,1,0,0,0-1-1ZM9.381,2.1a1,1,0,0,0-1,1V4.238a1,1,0,0,0,1,1h1.143a1,1,0,0,0,1-1V3.1a1,1,0,0,0-1-1Zm-5.238,0a1,1,0,0,0-1,1V4.238a1,1,0,0,0,1,1H5.286a1,1,0,0,0,1-1V3.1a1,1,0,0,0-1-1Z" fill="#1e81fe"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle" width="28" height="28" fill="none"/>
+  <g id="Building" transform="translate(5 3)">
+    <g id="Oval" transform="translate(2.095)">
+      <path id="Mask-2" data-name="Mask" d="M5.762,19.905H0V2A2,2,0,0,1,2,0H12.667a2,2,0,0,1,2,2V19.9H8.9V16.714a1,1,0,0,0-1-1H6.762a1,1,0,0,0-1,1V19.9Zm3.619-9.429a1,1,0,0,0-1,1v1.143a1,1,0,0,0,1,1h1.143a1,1,0,0,0,1-1V11.476a1,1,0,0,0-1-1Zm-5.238,0a1,1,0,0,0-1,1v1.143a1,1,0,0,0,1,1H5.286a1,1,0,0,0,1-1V11.476a1,1,0,0,0-1-1Zm0-4.19a1,1,0,0,0-1,1V8.428a1,1,0,0,0,1,1H5.286a1,1,0,0,0,1-1V7.285a1,1,0,0,0-1-1ZM9.381,2.1a1,1,0,0,0-1,1V4.238a1,1,0,0,0,1,1h1.143a1,1,0,0,0,1-1V3.1a1,1,0,0,0-1-1Zm-5.238,0a1,1,0,0,0-1,1V4.238a1,1,0,0,0,1,1H5.286a1,1,0,0,0,1-1V3.1a1,1,0,0,0-1-1Z" fill="#1e81fe"/>
+      <g id="Oval-2" data-name="Oval" clip-path="url(#clip-path)">
+        <circle id="Oval-3" data-name="Oval" cx="17.5" cy="17.5" r="17.5" transform="translate(0.905 -21)" fill="#6cadff"/>
+      </g>
+    </g>
+    <rect id="Rectangle_Copy_2" data-name="Rectangle Copy 2" width="3.143" height="3.143" rx="1" transform="translate(10.476 6.286)" fill="#fff"/>
+    <path id="Rectangle_2" data-name="Rectangle 2" d="M2.083,0H16.774a2.083,2.083,0,0,1,2.083,2.083v0a.012.012,0,0,1-.012.012H.012A.012.012,0,0,1,0,2.083v0A2.083,2.083,0,0,1,2.083,0Z" transform="translate(0 19.905)" fill="#a4ccff"/>
+  </g>
+</svg>

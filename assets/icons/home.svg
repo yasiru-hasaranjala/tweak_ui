@@ -1,0 +1,6 @@
+<svg id="Saved" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle" width="24" height="24" fill="none"/>
+  <g id="Home-heart" transform="translate(2 2)">
+    <path id="Combined_Shape" data-name="Combined Shape" d="M18,19.273H2a2,2,0,0,1-2-2V7.061A2.013,2.013,0,0,1,.957,5.354L9.479.147a1,1,0,0,1,1.043,0l8.521,5.207A2.013,2.013,0,0,1,20,7.061V17.273A2,2,0,0,1,18,19.273Zm-10-10a2.018,2.018,0,0,0-2,2.245c0,2.065,3.96,4.4,4,4.422.039-.023,4-2.365,4-4.334a2.09,2.09,0,0,0-2-2.333c-.772,0-1.656.932-2,1.333C9.656,10.2,8.775,9.273,8,9.273Z" transform="translate(0 0.728)" fill="#cad1e2"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="Home" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle" width="24" height="24" fill="none"/>
+  <g id="Vynil">
+    <rect id="bound" width="24" height="24" fill="none"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M9,18a9,9,0,1,1,9-9A9.01,9.01,0,0,1,9,18ZM9,5a4,4,0,1,0,4,4A4,4,0,0,0,9,5Z" transform="translate(3 3)" fill="#4da455"/>
+    <circle id="Oval" cx="1" cy="1" r="1" transform="translate(11 11)" fill="#4da455" opacity="0.3"/>
+  </g>
+</svg>

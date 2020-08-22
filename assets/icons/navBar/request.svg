@@ -1,0 +1,7 @@
+<svg id="Group" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle" width="24" height="24" fill="none"/>
+  <g id="Box" transform="translate(3 4)">
+    <path id="Combined_Shape" data-name="Combined Shape" d="M12.722,12.444H1.5a1.5,1.5,0,0,1-1.5-1.5V0H14.222V10.944A1.5,1.5,0,0,1,12.722,12.444ZM5.333,2.667a.889.889,0,1,0,0,1.777H8.889a.889.889,0,0,0,0-1.777Z" transform="translate(1.778 3.556)" fill="#4da455"/>
+    <rect id="Rectangle_143" data-name="Rectangle 143" width="17.778" height="3.556" rx="1" fill="#145b1b"/>
+  </g>
+</svg>

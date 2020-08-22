@@ -1,0 +1,16 @@
+<svg id="Group_7" data-name="Group 7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M13.2,16.171V2.8a.5.5,0,0,1,.392-.488L23.392.13A.5.5,0,0,1,24,.618V13.994a.5.5,0,0,1-.392.488l-9.8,2.178a.5.5,0,0,1-.608-.489Zm-3.009.489-9.8-2.178A.5.5,0,0,1,0,13.994V.618A.5.5,0,0,1,.608.13l9.8,2.178A.5.5,0,0,1,10.8,2.8V16.171a.5.5,0,0,1-.608.489Z" transform="translate(0 0.005)" fill="#6650bc"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle" width="28" height="28" fill="none"/>
+  <g id="Book-open" transform="translate(2 6)">
+    <g id="Oval" transform="translate(0)">
+      <path id="Mask-2" data-name="Mask" d="M13.2,16.171V2.8a.5.5,0,0,1,.392-.488L23.392.13A.5.5,0,0,1,24,.618V13.994a.5.5,0,0,1-.392.488l-9.8,2.178a.5.5,0,0,1-.608-.489Zm-3.009.489-9.8-2.178A.5.5,0,0,1,0,13.994V.618A.5.5,0,0,1,.608.13l9.8,2.178A.5.5,0,0,1,10.8,2.8V16.171a.5.5,0,0,1-.608.489Z" transform="translate(0 0.005)" fill="#6650bc"/>
+      <g id="Oval-2" data-name="Oval" clip-path="url(#clip-path)">
+        <circle id="Oval-3" data-name="Oval" cx="17.5" cy="17.5" r="17.5" transform="translate(5 -20)" fill="#a18bf5"/>
+      </g>
+    </g>
+  </g>
+</svg>

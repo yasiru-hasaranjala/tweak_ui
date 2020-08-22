@@ -1,0 +1,8 @@
+<svg id="Home" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle" width="24" height="24" fill="none"/>
+  <g id="Dinner">
+    <rect id="bound" width="24" height="24" fill="none"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M1,16a1,1,0,1,1,0-2H19a1,1,0,0,1,0,2ZM8,2a2,2,0,1,1,2,2A2,2,0,0,1,8,2Z" transform="translate(2 4)" opacity="0.3"/>
+    <path id="Oval_38" data-name="Oval 38" d="M18,9A9,9,0,0,0,0,9Z" transform="translate(3 7)"/>
+  </g>
+</svg>

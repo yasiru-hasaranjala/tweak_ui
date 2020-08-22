@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.197" height="24" viewBox="0 0 14.197 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M3.478,24V22.6a1,1,0,0,1,1-1h5.2a1,1,0,0,1,1,1V24Zm.33-3.6a.5.5,0,0,1-.46-.3L.06,12.425a1,1,0,0,1,.025-.842L5.878,0V9.8a1.1,1.1,0,0,0,.007.117,2.4,2.4,0,1,0,2.386,0A1.049,1.049,0,0,0,8.278,9.8V0l5.792,11.584a1,1,0,0,1,.024.842L10.808,20.1a.5.5,0,0,1-.46.3Z" transform="translate(0 0.001)" fill="#ff7e4c"/>
+    </clipPath>
+  </defs>
+  <g id="Pen-tool-vector" transform="translate(-0.102 0.001)">
+    <g id="Oval" transform="translate(0.122)">
+      <path id="Mask-2" data-name="Mask" d="M3.478,24V22.6a1,1,0,0,1,1-1h5.2a1,1,0,0,1,1,1V24Zm.33-3.6a.5.5,0,0,1-.46-.3L.06,12.425a1,1,0,0,1,.025-.842L5.878,0V9.8a1.1,1.1,0,0,0,.007.117,2.4,2.4,0,1,0,2.386,0A1.049,1.049,0,0,0,8.278,9.8V0l5.792,11.584a1,1,0,0,1,.024.842L10.808,20.1a.5.5,0,0,1-.46.3Z" transform="translate(0 0.001)" fill="#ff7e4c"/>
+      <g id="Oval-2" data-name="Oval" clip-path="url(#clip-path)">
+        <circle id="Oval-3" data-name="Oval" cx="15" cy="15" r="15" transform="translate(1.878 -10)" fill="#ffa27e"/>
+      </g>
+    </g>
+  </g>
+</svg>

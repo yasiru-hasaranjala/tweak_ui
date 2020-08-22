@@ -1,0 +1,16 @@
+<svg id="jenius_icons_transfer" data-name="jenius / icons / transfer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M9.8,21H0V0H22.4V21H12.6V16.66a7,7,0,1,0-2.8,0V21h0ZM8.4,9.8a2.8,2.8,0,1,1,2.8,2.8A2.8,2.8,0,0,1,8.4,9.8Z" transform="translate(0 0.8)" fill="#4da455"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle" width="28" height="28" fill="none"/>
+  <g id="Cap-1" transform="translate(2 3)">
+    <g id="Oval" transform="translate(0.8)">
+      <path id="Mask-2" data-name="Mask" d="M9.8,21H0V0H22.4V21H12.6V16.66a7,7,0,1,0-2.8,0V21h0ZM8.4,9.8a2.8,2.8,0,1,1,2.8,2.8A2.8,2.8,0,0,1,8.4,9.8Z" transform="translate(0 0.8)" fill="#4da455"/>
+      <g id="Oval-2" data-name="Oval" clip-path="url(#clip-path)">
+        <circle id="Oval-3" data-name="Oval" cx="15" cy="15" r="15" transform="translate(6.2 -12)" fill="#145b1b"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.517" height="24" viewBox="0 0 18.517 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M.38,4.619A2,2,0,0,1,1.7,1.709L9.393,0l7.691,1.709a2,2,0,0,1,1.322,2.91L12.821,14.857H5.964Z" fill="#4da455"/>
+    </clipPath>
+  </defs>
+  <g id="Buld_2" data-name="Buld#2" transform="translate(-1.027)">
+    <g id="Oval" transform="translate(0.893)">
+      <path id="Mask-2" data-name="Mask" d="M.38,4.619A2,2,0,0,1,1.7,1.709L9.393,0l7.691,1.709a2,2,0,0,1,1.322,2.91L12.821,14.857H5.964Z" fill="#4da455"/>
+    </g>
+    <path id="Rectangle_72_Copy_2" data-name="Rectangle 72 Copy 2" d="M0,0H4.571a0,0,0,0,1,0,0V.286a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V0A0,0,0,0,1,0,0Z" transform="translate(8 21.714)" fill="#4da455"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M2.143,11.428a1,1,0,0,1-1-1V1.143H.572A.572.572,0,0,1,.572,0H4A.572.572,0,1,1,4,1.143H3.429v9.285a1,1,0,0,1-1,1Z" transform="translate(8 9.143)" fill="#145b1b"/>
+    <path id="Combined_Shape-2" data-name="Combined Shape" d="M1.143,6.857a1.143,1.143,0,1,1,0-2.286H8A1.143,1.143,0,0,1,8,6.857Zm0-2.286a1.143,1.143,0,1,1,0-2.285H8A1.143,1.143,0,1,1,8,4.571Zm0-2.285A1.143,1.143,0,0,1,1.143,0H8A1.143,1.143,0,0,1,8,2.286Z" transform="translate(5.714 14.857)" fill="#145b1b"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg id="Group_6" data-name="Group 6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M3.932,18.339a.5.5,0,0,0,.5.481h.637a.5.5,0,0,0,.482-.368l1.283-4.706a.5.5,0,0,1,.553-.363l3.063.438,4.075-.453a.5.5,0,0,1,.538.365l1.287,4.719a.5.5,0,0,0,.482.368h.657a.5.5,0,0,0,.5-.46l.618-7.721A4,4,0,0,0,14.618,6.32H10.451a18.88,18.88,0,0,0-2.5-4L2.5.05A.3.3,0,0,0,2.1.4l.286,1.146a.5.5,0,0,1-.132.475l-1.3,1.3-.9,2.256A.5.5,0,0,0,.1,6.039l.59.884a.5.5,0,0,0,.673.151L2,6.689a1,1,0,0,1,1.514.819Z" transform="translate(0 0.68)" fill="#4da455"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle" width="28" height="28" fill="none"/>
+  <g id="Wood-horse" transform="translate(2 2)">
+    <rect id="bound" width="24" height="24" fill="none"/>
+    <g id="Oval" transform="translate(2.549 2)">
+      <path id="Mask-2" data-name="Mask" d="M3.932,18.339a.5.5,0,0,0,.5.481h.637a.5.5,0,0,0,.482-.368l1.283-4.706a.5.5,0,0,1,.553-.363l3.063.438,4.075-.453a.5.5,0,0,1,.538.365l1.287,4.719a.5.5,0,0,0,.482.368h.657a.5.5,0,0,0,.5-.46l.618-7.721A4,4,0,0,0,14.618,6.32H10.451a18.88,18.88,0,0,0-2.5-4L2.5.05A.3.3,0,0,0,2.1.4l.286,1.146a.5.5,0,0,1-.132.475l-1.3,1.3-.9,2.256A.5.5,0,0,0,.1,6.039l.59.884a.5.5,0,0,0,.673.151L2,6.689a1,1,0,0,1,1.514.819Z" transform="translate(0 0.68)" fill="#4da455"/>
+      <g id="Oval-2" data-name="Oval" clip-path="url(#clip-path)">
+        <circle id="Oval-3" data-name="Oval" cx="17.5" cy="17.5" r="17.5" transform="translate(3.451 -20)" fill="#145b1b"/>
+      </g>
+    </g>
+  </g>
+</svg>

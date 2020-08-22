@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:tweak/constants.dart';
 import 'package:tweak/intros/register.dart';
-import 'package:tweak/welcome.dart';
-
+import 'package:tweak/main/nav_menu.dart';
 import 'package:tweak/components/already_have_an_account_acheck.dart';
 import 'package:tweak/components/rounded_button.dart';
 import 'package:tweak/components/rounded_input_field.dart';
@@ -47,7 +47,7 @@ class _SignInState extends State<SignIn> {
                 new Container(
                   alignment: Alignment.center,
                   child: new Image.asset(
-                    'assets/tw-1.jpg',
+                    'assets/images/tw-1.jpg',
                     height: size.height * 0.35,
                   ),
                 ),
@@ -73,7 +73,7 @@ class _SignInState extends State<SignIn> {
                       context,
                       MaterialPageRoute(
                         builder: (context) {
-                          return Welcome();
+                          return NavMenu();
                         },
                       ),
                     );
@@ -96,7 +96,7 @@ class _SignInState extends State<SignIn> {
                 SizedBox(height: size.height * 0.02),
                 Text(
                   error,
-                  style: TextStyle(color: Colors.black, fontSize: 14),
+                  style: TextStyle(color: kActiveIconColor, fontSize: 14),
                 ),
                 SizedBox(height: size.height * 0.02),
                 AlreadyHaveAnAccountCheck(

@@ -1,0 +1,14 @@
+<svg id="Group_6" data-name="Group 6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M18.776,20H2a2,2,0,0,1-2-2V7.271A2.013,2.013,0,0,1,.957,5.565L9.867.121a1,1,0,0,1,1.042,0l8.909,5.444a2.013,2.013,0,0,1,.958,1.706V18A2,2,0,0,1,18.776,20ZM7.925,10.767a1,1,0,0,0-1,1v3.771a1,1,0,0,0,1,1H12.85a1,1,0,0,0,1-1V11.767a1,1,0,0,0-1-1Z" fill="#6650bc"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle" width="28" height="28" fill="none"/>
+  <g id="Oval" transform="translate(4 4)">
+    <path id="Mask-2" data-name="Mask" d="M18.776,20H2a2,2,0,0,1-2-2V7.271A2.013,2.013,0,0,1,.957,5.565L9.867.121a1,1,0,0,1,1.042,0l8.909,5.444a2.013,2.013,0,0,1,.958,1.706V18A2,2,0,0,1,18.776,20ZM7.925,10.767a1,1,0,0,0-1,1v3.771a1,1,0,0,0,1,1H12.85a1,1,0,0,0,1-1V11.767a1,1,0,0,0-1-1Z" fill="#6650bc"/>
+    <g id="Oval-2" data-name="Oval" clip-path="url(#clip-path)">
+      <circle id="Oval-3" data-name="Oval" cx="17.5" cy="17.5" r="17.5" transform="translate(4 -17)" fill="#a18bf5"/>
+    </g>
+  </g>
+</svg>

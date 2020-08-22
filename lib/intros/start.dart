@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/rendering.dart';
 import 'package:tweak/intros/Onboarding.dart';
+
 class Start extends StatefulWidget {
 
   final int initPosition;
@@ -12,10 +13,10 @@ class Start extends StatefulWidget {
     'Tweaks for your\nSelf, Family or Home',
     'Private or Shared.\nIt’s easy to split.'];
   final imgSrc = [
-    'assets/tw-1.jpg',
-    'assets/tw-2.jpg',
-    'assets/tw-3.jpg',
-    'assets/tw-4.jpg',
+    'assets/images/tw-1.jpg',
+    'assets/images/tw-2.jpg',
+    'assets/images/tw-3.jpg',
+    'assets/images/tw-4.jpg',
   ];
 
   final dis = [
@@ -58,7 +59,8 @@ class _StartState extends State<Start> {
   }
 
   void checkUserDragging(ScrollNotification scrollNotification) {
-    if (scrollNotification is UserScrollNotification && scrollNotification.direction != ScrollDirection.idle) {
+    if (scrollNotification is UserScrollNotification
+        && scrollNotification.direction != ScrollDirection.idle) {
       userPageDragging = true;
     } else if (scrollNotification is ScrollEndNotification) {
       userPageDragging = false;
@@ -76,16 +78,14 @@ class _StartState extends State<Start> {
         onNotification: (scrollNotification) {
           checkUserDragging(scrollNotification);
         },
-        child: PageView(
+        child: PageView.builder(
           controller: _pageController,
-          children: <Widget>[
-            Onboarding(title: widget.title[0],imgSrc: widget.imgSrc[0],dis: widget.dis[0],num: 0,),
-            Onboarding(title: widget.title[1],imgSrc: widget.imgSrc[1],dis: widget.dis[1],num: 1,),
-            Onboarding(title: widget.title[2],imgSrc: widget.imgSrc[2],dis: widget.dis[2],num: 2,),
-            Onboarding(title: widget.title[3],imgSrc: widget.imgSrc[3],dis: widget.dis[3],num: 3,),
-          ],
-          onPageChanged: (page) {
-          },
+          itemBuilder: (_, index) => Onboarding(
+            title: widget.title[index],
+            imgSrc: widget.imgSrc[index],
+            dis: widget.dis[index],
+            num: index,
+          ),
         ),
       ),
     );

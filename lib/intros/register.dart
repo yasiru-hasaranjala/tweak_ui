@@ -3,6 +3,7 @@ import 'package:tweak/components/already_have_an_account_acheck.dart';
 import 'package:tweak/components/rounded_button.dart';
 import 'package:tweak/components/rounded_input_field.dart';
 import 'package:tweak/components/rounded_password_field.dart';
+import 'package:tweak/constants.dart';
 import 'package:tweak/intros/sign_in.dart';
 
 class Register extends StatefulWidget {
@@ -45,7 +46,7 @@ class _RegisterState extends State<Register> {
                 SizedBox(height: size.height * 0.03),
                 new Container(
                   child: new Image.asset(
-                    'assets/tw-1.jpg',
+                    'assets/images/tw-1.jpg',
                     height: size.height * 0.3,
                   ),
                 ),
@@ -89,7 +90,7 @@ class _RegisterState extends State<Register> {
                 SizedBox(height: size.height * 0.02),
                 Text(
                   error,
-                  style: TextStyle(color: Colors.red, fontSize: 14),
+                  style: TextStyle(color: kActiveIconColor, fontSize: 14),
                 ),
                 SizedBox(height: size.height * 0.02),
                 AlreadyHaveAnAccountCheck(
