@@ -61,6 +61,15 @@ class Welcome extends StatelessWidget {
                           ),
                           onTap: (){},
                         ),
+                        Text(
+                          'TWEAKS',
+                          style: TextStyle(
+                            fontFamily: 'Concourse',
+                            fontSize: 24,
+                            fontWeight: FontWeight.w900,
+                            color: kPrimaryColor,
+                          ),
+                        ),
                         new GestureDetector(
                           child: Container(
                             height: 30,
@@ -78,32 +87,7 @@ class Welcome extends StatelessWidget {
                       ],
 
                     ),
-                    Container(
-                      alignment: Alignment.topLeft,
-                      padding: EdgeInsets.symmetric(vertical: 10),
-                      child: Text(
-                        'Good afternoon!',
-                        style: TextStyle(
-                          fontFamily: 'HKGrotesk-Regular',
-                          fontSize: 14,
-                          color: kTextColor,
-                          height: 1,
-                        ),
-                      ),
-                    ),
-                    Container(
-                      alignment: Alignment.topLeft,
-                      padding: EdgeInsets.only(bottom: 10),
-                      child: Text(
-                        'Mrs.Valerina Dowall',
-                        style: TextStyle(
-                          fontFamily: 'HKGrotesk-ExtraBold',
-                          fontSize: 24,
-                          color: kPrimaryColor,
-                          height: 1,
-                        ),
-                      ),
-                    ),
+                    SizedBox(height: 35),
                     SearchBar(false),
                   ],
                 ),

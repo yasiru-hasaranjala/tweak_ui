@@ -24,7 +24,7 @@ class SearchBar extends StatelessWidget {
           Expanded(
             child: TextField(
               decoration: InputDecoration(
-                hintText: !type ? "What we can do for you?" :"Massage",
+                hintText: !type ? "Find Tweaks for Home, Family or Self" :"Massage",
                 hintStyle: TextStyle(
                   fontFamily: 'HKGrotesk-Regular',
                   fontSize: 14,
