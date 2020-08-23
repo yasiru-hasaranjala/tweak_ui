@@ -111,7 +111,7 @@ class _NavMenuState extends State<NavMenu> {
             _pageController.animateToPage(
                 index,
                 curve: Curves.easeInOutQuad,
-                duration: Duration(milliseconds: 500)
+                duration: Duration(milliseconds: 1)
             );
           },
           items: widget.titles.map((title) {
